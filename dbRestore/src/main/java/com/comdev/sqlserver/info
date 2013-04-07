@@ -1,0 +1,52 @@
+
+
+
+
+
+ sqlserver2000的备份还原
+
+===========================
+
+ 关于备份----》
+
+ 01
+ 如果数据库文件(pri_Data.MDF,pri_log.ldf)正在使用
+ 是不允许复制粘贴的
+当然可以先分离【EXEC sp_detach_db 'bea'】，再拷贝，再给附加上
+
+02 如果是通过 BACKUP DATABASE  pri  TO  DISK='c:\1.bak'   进行备份 ，则是可以
+
+
+ 关于还原----》
+
+ 01 通过附加的方式
+ exec sp_attach_db @dbname = 'bea', @filename1 = N'$INSTDIR\db\bea_Data.MDF',@filename2=N'$INSTDIR\db\bea_Log.LDF'
+
+02通过还原命令
+RESTORE DATABASE pri  FROM  DISK='c:\1.bak'
+使用还原命令前，如果数据库正在被连接肯定也是不行的。。。
+
+
+对于当前的需求，之通过附加命令就可以了，，，仅仅需要判断附加前同名数据库是否存在
+全部存放在  C:\Program Files\Microsoft SQL Server\MSSQL\Data\ 该目录下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
+      <module fileurl="file://D:/work_modules/commonDao/commonDao.iml" filepath="D:/work_modules/commonDao/commonDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbRestore/dbRestore.iml" filepath="$PROJECT_DIR$/dbRestore/dbRestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbRestore/dbRestore.iml" filepath="$PROJECT_DIR$/dbRestore/dbRestore.iml" />
+      <module fileurl="file://D:/work_modules/javaUT/javaUT.iml" filepath="D:/work_modules/javaUT/javaUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nutz/nutz.iml" filepath="$PROJECT_DIR$/nutz/nutz.iml" />
+    </modules>
+  </component>
+</project>
+
