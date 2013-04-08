@@ -22,15 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="commonDao" />
         <module name="dbRestore" />
-        <module name="javaUT" />
         <module name="nutz" />
+        <module name="nutzTest" />
         <module name="ThreadTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaUT" target="1.6" />
       <module name="nutz" target="1.6" />
     </bytecodeTargetLevel>
   </component>
