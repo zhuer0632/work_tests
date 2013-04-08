@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="0BD7EED5E42639C9CC5E57BE5868D8B7" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -8,10 +11,12 @@
         <option value="$PROJECT_DIR$/nutz/pom.xml" />
         <option value="$PROJECT_DIR$/nutzTest/pom.xml" />
         <option value="$PROJECT_DIR$/ThreadTest/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

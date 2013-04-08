@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="dbRestore" />
+        <module name="jdbcTest" />
         <module name="nutz" />
         <module name="nutzTest" />
         <module name="ThreadTest" />
