@@ -3,6 +3,9 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/work_purehttp" />
+  </component>
   <component name="IdProvider" IDEtalkID="0BD7EED5E42639C9CC5E57BE5868D8B7" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -14,7 +17,8 @@
         <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
         <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
         <option value="D:/work_modules/javaUT/pom.xml" />
-        <option value="$PROJECT_DIR$/dbutils_test/pom.xml" />
+        <option value="D:/work_purehttp/pom.xml" />
+        <option value="$PROJECT_DIR$/jettyStart/pom.xml" />
       </list>
     </option>
   </component>
