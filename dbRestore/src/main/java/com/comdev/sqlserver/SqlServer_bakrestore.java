@@ -1,6 +1,7 @@
 package com.comdev.sqlserver;
 
 import com.comdev.db.DbKit;
+import com.comdev.db.ddl.DbMetaProxy;
 import com.comdev.db.ddl.SqlServerDBMeta;
 import com.me.ut.exe.RunExe;
 import com.me.ut.file.FileUT;
@@ -24,7 +25,7 @@ public class SqlServer_bakrestore
     /**
      * 根据指定的配置文件进行备份
      */
-    public void bak(String bakfile)
+    public static void bak(String bakfile)
     {
         //BACKUP DATABASE  pri  TO  DISK='c:\1.bak'
         logger.debug("no implement!!!");
@@ -33,7 +34,7 @@ public class SqlServer_bakrestore
     /**
      * 根据指定的备份文件如  bea_Data.MDF， bea_log.ldf 进行附加
      */
-    public void Restore(String dbName, String dbBak_datafile, String dbBak_logfile)
+    public static void Restore(String dbName, String dbBak_datafile, String dbBak_logfile)
     {
 
         if (!new File(dbBak_datafile).exists() || !new File(dbBak_logfile).exists())
@@ -94,6 +95,14 @@ public class SqlServer_bakrestore
         DbKit.executeNaviteSQL(sql);
 
         logger.debug("数据库附加完毕" + dbName);
+    }
 
+    /**
+     * @return  1:成功，2：失败：3：数据库已经存在，没有操作，直接返回
+     */
+    public static int createDb(String dbname)
+    {
+        DbMetaProxy proxy=new DbMetaProxy();
+      return   proxy.createDb(dbname);
     }
 }
