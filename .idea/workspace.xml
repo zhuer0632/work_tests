@@ -5,7 +5,68 @@
       <change type="DELETED" beforePath="D:\work_purehttp\auto.bat" afterPath="" />
       <change type="DELETED" beforePath="D:\work_purehttp\desktop.ini" afterPath="" />
       <change type="DELETED" beforePath="D:\work_purehttp\doc\~$框架概要设计.doc" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\doc\新框架概要设计.doc" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\consts\SysConst.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\ctrls\Index.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\ctrls\Users.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\init\SysStart.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\vos\VOPet.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\com\comdev\vos\test\CreateTables.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\db.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1.war" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\classes\beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\classes\db.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\html\index.ftl" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\html\users\list.ftl" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commonDao-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-beanutils-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-codec-1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-compress-1.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-configuration-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-fileupload-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-lang3-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\druid-0.2.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\freemarker-2.3.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\geronimo-servlet_3.0_spec-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\hamcrest-core-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\javaUT-0.0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\jtds-1.2.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\junit-4.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\mysql-connector-java-5.1.24.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\nutz-1.b.47.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-aop-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-beans-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-context-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-context-support-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-core-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-expression-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-jdbc-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-tx-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-web-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\spring-webmvc-3.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\springmvc-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\lib\xz-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\mvc-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\work_purehttp\target\webapp1\index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/compiler.xml" afterPath="D:/work_purehttp/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/encodings.xml" afterPath="D:/work_purehttp/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/misc.xml" afterPath="D:/work_purehttp/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/modules.xml" afterPath="D:/work_purehttp/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/pom.xml" afterPath="D:/work_purehttp/pom.xml" />
       <change type="MODIFICATION" beforePath="D:/work_purehttp/work_purehttp.iml" afterPath="D:/work_purehttp/work_purehttp.iml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/artifacts/work_purehttp_war_exploded.xml" afterPath="D:/work_purehttp/.idea/artifacts/work_purehttp_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="D:/work_purehttp/.idea/workspace.xml" afterPath="D:/work_purehttp/.idea/workspace.xml" />
     </list>
     <ignored path="work_tests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,9 +74,10 @@
     <file path="/App.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365646268687" ignored="false" />
     <file path="/JDBC_Test.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365412090257" ignored="false" />
     <file path="/info.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365412647664" ignored="false" />
-    <file path="/Dummy.txt" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365643684632" ignored="false" />
+    <file path="/Dummy.txt" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365829958347" ignored="false" />
     <file path="/fragment.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365646441408" ignored="false" />
     <file path="/WebApp.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365647593285" ignored="false" />
+    <file path="$PROJECT_DIR$/jdbcTest/src/test/java/jdbcTest/JDBC_Test.java" changelist="4a0f6bee-34a7-4b97-838e-b0c72c443411" time="1365827807401" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +92,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/jdbcTest/src/test/java/jdbcTest/JDBC_Test.java" line="19" class="jdbcTest.JDBC_Test" package="jdbcTest">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -80,6 +126,22 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/jdbcTest/src/test/java/jdbcTest/JDBC_Test.java" line="19" class="jdbcTest.JDBC_Test" package="jdbcTest">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -128,77 +190,13 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jettyStart" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jettyStart" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="junit:junit:4.10" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jettyStart" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="org.eclipse.jetty.aggregate:jetty-all:8.1.10.v20130312" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jettyStart" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="958" />
+    <option name="width" value="1382" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -228,7 +226,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -239,7 +237,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +246,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="C:" />
+    <property name="last_opened_file_path" value="D:/workspace_saas/SaasServer/pom.xml" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -371,19 +369,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -410,6 +395,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -475,7 +473,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="958" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="702" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -483,27 +481,27 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39924905" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3979975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2733485" sideWeight="0.5206508" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27376118" sideWeight="0.5206508" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19902518" sideWeight="0.5206508" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19893698" sideWeight="0.5206508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4793492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3979975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -611,9 +609,7 @@
     </entry>
     <entry file="file://D:/work_purehttp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="35" selection-start="1429" selection-end="1438" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="40" column="35" selection-start="1429" selection-end="1438" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="uml://MAVEN/jettyStart:jettyStart:1.0-SNAPSHOT">
@@ -623,25 +619,25 @@
           <OriginalElement>jettyStart:jettyStart:1.0-SNAPSHOT</OriginalElement>
           <nodes>
             <node x="260.0" y="131.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308</node>
-            <node x="255.0" y="82.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-http:jar:9.0.0.v20130308</node>
             <node x="260.0" y="36.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty.orbit:javax.servlet:jar:3.0.0.v201112011016</node>
-            <node x="121.0" y="41.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308</node>
+            <node x="255.0" y="82.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-http:jar:9.0.0.v20130308</node>
             <node x="230.0" y="-32.0">junit:junit:jar:4.10/org.hamcrest:hamcrest-core:jar:1.1</node>
+            <node x="121.0" y="41.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308</node>
             <node x="124.0" y="-15.0">junit:junit:jar:4.10</node>
             <node x="372.0" y="127.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-util:jar:9.0.0.v20130308</node>
-            <node x="378.0" y="82.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-http:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-util:jar:9.0.0.v20130308</node>
             <node x="-41.0" y="-82.0">jettyStart:jettyStart:1.0-SNAPSHOT</node>
+            <node x="378.0" y="82.0">org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-http:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-util:jar:9.0.0.v20130308</node>
             <node x="121.0" y="164.0">log4j:log4j:jar:1.2.17</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308" target="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-util:jar:9.0.0.v20130308">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
             <edge source="jettyStart:jettyStart:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
               <point x="0.0" y="0.0" />
               <point x="45.5" y="179.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308" target="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-util:jar:9.0.0.v20130308">
+              <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308" target="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308/org.eclipse.jetty:jetty-io:jar:9.0.0.v20130308">
@@ -653,13 +649,13 @@
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
+            <edge source="jettyStart:jettyStart:1.0-SNAPSHOT" target="junit:junit:jar:4.10">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
             <edge source="jettyStart:jettyStart:1.0-SNAPSHOT" target="org.eclipse.jetty:jetty-server:jar:9.0.0.v20130308">
               <point x="0.0" y="0.0" />
               <point x="45.5" y="56.5" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="jettyStart:jettyStart:1.0-SNAPSHOT" target="junit:junit:jar:4.10">
-              <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
             <edge source="junit:junit:jar:4.10" target="junit:junit:jar:4.10/org.hamcrest:hamcrest-core:jar:1.1">
@@ -679,53 +675,39 @@
           <settings layout="Hierarchic Group" zoom="1.0" x="165.0" y="-34.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jettyStart/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="830" selection-end="830" vertical-scroll-proportion="0.4993395">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="830" selection-end="830" vertical-scroll-proportion="0.4993395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jettyStart/jettyStart.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.41538462">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.41538462" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/aggregate/jetty-all-server/7.5.4.v20111024/jetty-all-server-7.5.4.v20111024.jar!/org/eclipse/jetty/webapp/WebAppContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="37" selection-start="338" selection-end="338" vertical-scroll-proportion="0.25653207">
-          <folding />
-        </state>
+        <state line="7" column="37" selection-start="338" selection-end="338" vertical-scroll-proportion="0.25653207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jettyStart/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="16" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jettyStart/src/main/java/jettyStart/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="13" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#762#1343#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="40" column="13" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jettyStart/src/main/java/jettyStart/WebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="630" selection-end="630" vertical-scroll-proportion="1.0232558">
-          <folding />
-        </state>
+        <state line="23" column="33" selection-start="630" selection-end="630" vertical-scroll-proportion="1.0232558" />
       </provider>
     </entry>
   </component>

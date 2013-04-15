@@ -37,11 +37,20 @@ public class SqlServer_bakrestore
     public static void Restore(String dbName, String dbBak_datafile, String dbBak_logfile)
     {
 
-        if (!new File(dbBak_datafile).exists() || !new File(dbBak_logfile).exists())
+        if (!new File(dbBak_datafile).exists() )
         {
             logger.debug("指定的数据库备份文件不存在");
-            return;
+            throw new RuntimeException(String.format("指定的数据库备份文件不存在%s,",dbBak_datafile));
         }
+
+
+        if (!new File(dbBak_datafile).exists()  )
+        {
+            logger.debug("指定的数据库备份文件不存在");
+            throw new RuntimeException(String.format("指定的数据库备份文件不存在%s,",dbBak_logfile));
+        }
+
+
 
         //检查数据库是否已经存在
         SqlServerDBMeta sqlServerDBMeta = new SqlServerDBMeta();
@@ -57,7 +66,7 @@ public class SqlServer_bakrestore
         if (dbs.contains(dbName))
         {
             logger.debug("指定的数据库已经存在" + dbName);
-            return;
+            throw new RuntimeException(String.format("指定的数据库已经存在%s,",dbName));
         }
 
         //首先把数据库文件复制到  C:\Program Files\Microsoft SQL Server\MSSQL\Data\ 目录下
@@ -68,13 +77,13 @@ public class SqlServer_bakrestore
         String target_log = "C:\\Program Files\\Microsoft SQL Server\\MSSQL\\Data\\" + dbName + "_log.mdf";
         if (new File(target_data).exists())
         {
-            logger.debug("指定的数据库已经存在" + dbName+"data文件已经存在");
-            return;
+            logger.debug("指定的数据库已经存在" + dbName+",data文件已经存在,"+target_data);
+            throw new RuntimeException("指定的数据库已经存在" + dbName+",data文件已经存在,"+target_data);
         }
         if (new File(target_log).exists())
         {
-            logger.debug("指定的数据库已经存在" + dbName+"log文件已经存在");
-            return;
+            logger.debug("指定的数据库已经存在" + dbName+",log文件已经存在,"+target_log);
+            throw new RuntimeException("指定的数据库已经存在" + dbName+",log文件已经存在,"+target_log);
         }
 
         try

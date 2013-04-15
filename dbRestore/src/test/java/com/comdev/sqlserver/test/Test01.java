@@ -20,9 +20,8 @@ public class Test01
     public  void test01()
     {
         SqlServer_bakrestore  sql=new SqlServer_bakrestore();
-
         sql.Restore("bea1","c:\\bea_Data.MDF","c:\\bea_log.ldf");
-
     }
+
 
 }
