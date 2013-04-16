@@ -22,14 +22,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="dbRestore" />
+        <module name="cglibTest" />
         <module name="javaUT" />
-        <module name="jdbcTest" />
-        <module name="jettyStart" />
-        <module name="nutz" />
-        <module name="nutzTest" />
+        <module name="jsonTest" />
         <module name="ThreadTest" />
-        <module name="work_purehttp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

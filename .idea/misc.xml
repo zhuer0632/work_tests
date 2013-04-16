@@ -10,15 +10,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/dbRestore/pom.xml" />
-        <option value="$PROJECT_DIR$/nutz/pom.xml" />
-        <option value="$PROJECT_DIR$/nutzTest/pom.xml" />
         <option value="$PROJECT_DIR$/ThreadTest/pom.xml" />
-        <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
-        <option value="$PROJECT_DIR$/jdbcTest/pom.xml" />
         <option value="D:/work_modules/javaUT/pom.xml" />
-        <option value="D:/work_purehttp/pom.xml" />
-        <option value="$PROJECT_DIR$/jettyStart/pom.xml" />
+        <option value="$PROJECT_DIR$/jsonTest/pom.xml" />
+        <option value="$PROJECT_DIR$/cglibTest/pom.xml" />
       </list>
     </option>
   </component>

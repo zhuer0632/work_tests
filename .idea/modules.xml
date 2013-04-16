@@ -3,13 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dbRestore/dbRestore.iml" filepath="$PROJECT_DIR$/dbRestore/dbRestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cglibTest/cglibTest.iml" filepath="$PROJECT_DIR$/cglibTest/cglibTest.iml" />
       <module fileurl="file://D:/work_modules/javaUT/javaUT.iml" filepath="D:/work_modules/javaUT/javaUT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jdbcTest/jdbcTest.iml" filepath="$PROJECT_DIR$/jdbcTest/jdbcTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jettyStart/jettyStart.iml" filepath="$PROJECT_DIR$/jettyStart/jettyStart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nutz/nutz.iml" filepath="$PROJECT_DIR$/nutz/nutz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nutzTest/nutzTest.iml" filepath="$PROJECT_DIR$/nutzTest/nutzTest.iml" />
-      <module fileurl="file://D:/work_purehttp/work_purehttp.iml" filepath="D:/work_purehttp/work_purehttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonTest/jsonTest.iml" filepath="$PROJECT_DIR$/jsonTest/jsonTest.iml" />
     </modules>
   </component>
 </project>
