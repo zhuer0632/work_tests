@@ -25,6 +25,7 @@
         <module name="cglibTest" />
         <module name="javaUT" />
         <module name="jsonTest" />
+        <module name="test02" />
         <module name="ThreadTest" />
       </profile>
     </annotationProcessing>

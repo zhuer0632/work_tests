@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/cglibTest/cglibTest.iml" filepath="$PROJECT_DIR$/cglibTest/cglibTest.iml" />
       <module fileurl="file://D:/work_modules/javaUT/javaUT.iml" filepath="D:/work_modules/javaUT/javaUT.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsonTest/jsonTest.iml" filepath="$PROJECT_DIR$/jsonTest/jsonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test02/test02.iml" filepath="$PROJECT_DIR$/test02/test02.iml" />
     </modules>
   </component>
 </project>
