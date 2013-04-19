@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/jsonTest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nutz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nutzTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packagetest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test02" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test02/src/main/resources/log4j.properties" charset="UTF-8" />
   </component>
 </project>

@@ -25,6 +25,8 @@
         <module name="cglibTest" />
         <module name="javaUT" />
         <module name="jsonTest" />
+        <module name="packagetest" />
+        <module name="restart" />
         <module name="test02" />
         <module name="ThreadTest" />
       </profile>
