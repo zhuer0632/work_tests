@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ThreadTest/ThreadTest.iml" filepath="$PROJECT_DIR$/ThreadTest/ThreadTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cglibTest/cglibTest.iml" filepath="$PROJECT_DIR$/cglibTest/cglibTest.iml" />
+      <module fileurl="file://D:/work_modules/commonTest/commonTest.iml" filepath="D:/work_modules/commonTest/commonTest.iml" />
       <module fileurl="file://D:/work_modules/javaUT/javaUT.iml" filepath="D:/work_modules/javaUT/javaUT.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsonTest/jsonTest.iml" filepath="$PROJECT_DIR$/jsonTest/jsonTest.iml" />
     </modules>
