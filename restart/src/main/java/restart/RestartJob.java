@@ -1,6 +1,7 @@
 package restart;
 
 import com.me.ut.exe.RunExe;
+import com.me.ut.string.StringUT;
 import org.apache.log4j.Logger;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
@@ -47,7 +48,7 @@ public class RestartJob implements Job
                 {
                     try
                     {
-                        RunExe.ec("bin/stop.bat");
+                        RunExe.ec( "bin/stop.bat");
                     } catch (InterruptedException e)
                     {
                         e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
@@ -73,7 +74,7 @@ public class RestartJob implements Job
             }
 
 
-            RunExe.ec("bin/start.bat");
+            RunExe.ec( "bin/start.bat");
         } catch (InterruptedException e)
         {
             e.printStackTrace();
