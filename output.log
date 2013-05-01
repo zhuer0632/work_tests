@@ -935,3 +935,174 @@
 2013-05-02 05:50:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJob
 2013-05-02 05:50:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
 2013-05-02 05:50:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:23:33 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:23:33 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:23:33 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:23:33 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:23:33 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:23:33 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:23:33 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:24:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:24:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:24:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:24:00
+2013-04-22 09:24:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:24:00
+2013-04-22 09:24:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:24:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:24:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:24:00
+2013-04-22 09:24:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:24:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:24:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:24:30
+2013-04-22 09:24:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:24:30
+2013-04-22 09:24:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:24:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:24:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:24:30
+2013-04-22 09:25:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:25:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:25:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:25:00
+2013-04-22 09:25:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:25:00
+2013-04-22 09:25:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:25:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:25:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:25:00
+2013-04-22 09:25:22 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:25:22 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:25:22 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:25:22 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:25:22 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:25:22 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:25:22 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:25:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:25:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:25:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:25:30
+2013-04-22 09:25:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:25:30
+2013-04-22 09:25:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:25:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:25:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:25:30
+2013-04-22 09:25:55 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:25:55 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:25:55 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:25:55 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:25:55 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:25:55 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:25:55 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:26:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:26:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:26:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:26:00
+2013-04-22 09:26:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:26:00
+2013-04-22 09:26:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:26:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:26:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:26:00
+2013-04-22 09:26:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:26:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:26:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:26:30
+2013-04-22 09:26:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:26:30
+2013-04-22 09:26:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:26:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:26:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:26:30
+2013-04-22 09:27:07 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:27:07 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:27:07 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:27:07 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:27:07 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:27:07 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:27:07 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:27:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJobSqlServer
+2013-04-22 09:27:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:27:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:27:30
+2013-04-22 09:27:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:27:30
+2013-04-22 09:27:32 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:27:34 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:27:34 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:27:34
+2013-04-22 09:29:56 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:29:56 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:29:56 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:29:56 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:29:56 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:29:56 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:29:56 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:30:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJob
+2013-04-22 09:30:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:30:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:30:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:30:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:30:00
+2013-04-22 09:30:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:30:00
+2013-04-22 09:30:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:30:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:30:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:30:00
+2013-04-22 09:31:36 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:31:36 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:31:36 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:31:36 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:31:36 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:31:36 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:31:36 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:32:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJob
+2013-04-22 09:32:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:32:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:32:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:32:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:32:00
+2013-04-22 09:32:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:32:00
+2013-04-22 09:32:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:32:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:32:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:32:00
+2013-04-22 09:32:27 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:32:27 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:32:27 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:32:27 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:32:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:32:27 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:32:27 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:32:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJob
+2013-04-22 09:32:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:32:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:32:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:32:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:32:30
+2013-04-22 09:32:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:32:30
+2013-04-22 09:32:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:32:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:32:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:32:30
+2013-04-22 09:33:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job1', class=restart.RestartJob
+2013-04-22 09:33:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job1
+2013-04-22 09:33:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:33:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:33:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:33:00
+2013-04-22 09:33:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:33:00
+2013-04-22 09:33:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:33:00
+2013-04-22 09:33:00 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:01 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:21 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:33:21 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:33:21 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:33:21 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:33:21 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:33:21 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:33:21 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:33:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:33:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:33:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:33:30
+2013-04-22 09:33:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:33:30
+2013-04-22 09:33:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:33:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:33:30
+2013-04-22 09:34:03 [restart.App]-[DEBUG] 0/30  * * * * ?
+2013-04-22 09:34:03 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+2013-04-22 09:34:03 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.1.5.2 created.
+2013-04-22 09:34:03 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+2013-04-22 09:34:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2013-04-22 09:34:03 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 1.5.2
+2013-04-22 09:34:03 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2013-04-22 09:34:30 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:34:30 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:34:30 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:34:30
+2013-04-22 09:34:30 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:34:30
+2013-04-22 09:34:30 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:34:32 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:34:32 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:34:32
+2013-04-22 09:35:00 [org.quartz.simpl.SimpleJobFactory]-[DEBUG] Producing instance of Job 'jgroup1.job2', class=restart.RestartJobSqlServer
+2013-04-22 09:35:00 [org.quartz.core.JobRunShell]-[DEBUG] Calling execute on job jgroup1.job2
+2013-04-22 09:35:00 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:35:00
+2013-04-22 09:35:00 [restart.RestartJobSqlServer]-[DEBUG] 准备重启sqlserver：2013-4-22 9:35:00
+2013-04-22 09:35:02 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:35:04 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：>>0表示成功，其他是错误
+2013-04-22 09:35:04 [restart.RestartJobSqlServer]-[DEBUG] 当前时间：2013-4-22 9:35:04

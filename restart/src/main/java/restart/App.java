@@ -1,5 +1,6 @@
 package restart;
 
+import com.me.ut.string.StringUT;
 import com.me.ut.xml.PropertiesUT;
 import org.apache.log4j.Logger;
 import org.quartz.*;
@@ -25,25 +26,33 @@ public class App
     {
         try
         {
-//            String cronpath = cronpath.root() + File.separator + "sys.properties";
+//            String cronpath = StringUT.root() + File.separator + "sys.properties";
             String cronpath = "bin/sys.properties";
             String debug = PropertiesUT.getProV(cronpath, "debug");
             String cron_debug = PropertiesUT.getProV(cronpath, "cron_debug");
             String cron = PropertiesUT.getProV(cronpath, "cron");
+            String cronsqlserver = PropertiesUT.getProV(cronpath, "cronsqlserver");
 
 
             if (debug.equals("1"))
             {
                 cron = cron_debug;
+                cronsqlserver=cron_debug;
             }
 
             logger.debug(cron);
 
-            JobDetail jobDetail = new JobDetail("job1", "jgroup1", RestartJob.class);
-            Trigger trigger = new CronTrigger("trigger1", "tGroup1", cron);
+            JobDetail jobDetail1 = new JobDetail("job1", "jgroup1", RestartJob.class);
+            JobDetail jobDetail2 = new JobDetail("job2", "jgroup1", RestartJobSqlServer.class);
+
+            Trigger trigger1 = new CronTrigger("trigger1", "tGroup1", cron);
+            Trigger trigger2 = new CronTrigger("trigger2", "tGroup1", cronsqlserver);
+
             SchedulerFactory sf = new StdSchedulerFactory();
             Scheduler sched = sf.getScheduler();
-            sched.scheduleJob(jobDetail, trigger);
+
+            sched.scheduleJob(jobDetail1, trigger1);
+            sched.scheduleJob(jobDetail2, trigger2);
             sched.start();
 
         } catch (Exception e)
