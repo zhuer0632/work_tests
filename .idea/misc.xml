@@ -13,7 +13,14 @@
         <option value="$PROJECT_DIR$/ThreadTest/pom.xml" />
         <option value="D:/work_modules/javaUT/pom.xml" />
         <option value="$PROJECT_DIR$/jsonTest/pom.xml" />
+<<<<<<< HEAD
         <option value="D:/work_modules/commonTest/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/cglibTest/pom.xml" />
+        <option value="$PROJECT_DIR$/test02/pom.xml" />
+        <option value="$PROJECT_DIR$/restart/pom.xml" />
+        <option value="$PROJECT_DIR$/packagetest/pom.xml" />
+>>>>>>> 61cd9f82d6151d5d3c69b3aa727ac2c43b3252c7
       </list>
     </option>
   </component>

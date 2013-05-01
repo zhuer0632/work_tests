@@ -22,10 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="commonTest" />
-        <module name="javaUT" />
-        <module name="jsonTest" />
-        <module name="ThreadTest" />
+        <module name="nutzTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

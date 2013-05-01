@@ -1,0 +1,8 @@
+2013-04-19 11:15:52 [commonTest.StringTest]-[DEBUG] 
+2013-04-19 12:16:52 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：0>>>0表示成功，其他是错误
+2013-04-19 12:16:52 [commonTest.ExeTest]-[DEBUG] /D:/work_tests/restart/target/classes/bin/start.bat
+2013-04-19 12:16:52 [commonTest.StringTest]-[DEBUG] 
+2013-04-19 12:49:53 [com.me.ut.exe.RunExe]-[DEBUG] 执行结果：0>>>0表示成功，其他是错误
+2013-04-19 12:49:53 [commonTest.ExeTest]-[DEBUG] /D:/work_tests/restart/target/classes/bin/start.bat
+2013-04-19 12:49:53 [commonTest.StringTest]-[DEBUG] 
+2013-04-19 12:50:54 [commonTest.StringTest]-[DEBUG] 

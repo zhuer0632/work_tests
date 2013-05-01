@@ -34,7 +34,7 @@ public class AppTest
         druid.setMaxWait(PropertiesUT.get_maxconn());// 最多创建多少链接
         druid.setMaxActive(PropertiesUT.get_minconn());// 最少保留多少链接
         druid.setInitialSize(2);// 没有连接的时候一次创建多少
-        dao.setDataSource(druid);
+//        dao.setDataSource(druid);
 
     }
 
