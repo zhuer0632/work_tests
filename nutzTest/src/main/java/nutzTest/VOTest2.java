@@ -1,0 +1,51 @@
+package nutzTest;
+
+import org.nutz.dao.entity.annotation.Column;
+import org.nutz.dao.entity.annotation.Id;
+import org.nutz.dao.entity.annotation.Table;
+
+import java.util.Date;
+
+/**
+ * User: zhu
+ * Date: 13-5-7
+ * Time: 下午11:38
+ */
+
+@Table("t_test2")
+public class VOTest2
+{
+
+    @Id
+    private int id;
+
+    @Column
+    private Date date;
+
+    public int getId()
+    {
+        return id;
+    }
+
+    public void setId(int id)
+    {
+        this.id = id;
+    }
+
+    public Date getDate()
+    {
+        return date;
+    }
+
+    public void setDate(Date date)
+    {
+        this.date = date;
+    }
+
+    public static VOTest2 me()
+    {
+        VOTest2 vo = new VOTest2();
+        vo.setDate(new Date());
+        return vo;
+    }
+}

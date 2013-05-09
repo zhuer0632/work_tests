@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.war
+*.jar
+*.class
+*.swf
+*.swc
+*.log
