@@ -1,3 +1,0 @@
-2013-05-02 01:32:20 [com.alibaba.druid.pool.DruidDataSource]-[ERROR] testOnBorrow is true, validationQuery not set
-2013-05-02 01:32:20 [com.alibaba.druid.pool.DruidDataSource]-[WARN] Your dbType is mysql, recommend set testWhileIdle is true
-2013-05-02 01:32:20 [com.alibaba.druid.pool.DruidDataSource]-[INFO] {dataSource-1} inited
