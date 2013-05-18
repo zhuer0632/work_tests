@@ -2,17 +2,15 @@ package com.comdev.test;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.comdev.ut.PropertiesUT;
+import com.me.ut.string.Dump;
 import nutzTest.VOTest2;
 import org.apache.log4j.Logger;
-import org.junit.Test;
-import org.nutz.dao.Chain;
+import org.nutz.dao.Cnd;
+import org.nutz.dao.entity.Record;
 import org.nutz.dao.impl.NutDao;
-import org.nutz.dao.util.cri.SqlExpression;
-import org.nutz.dao.util.cri.SqlExpressionGroup;
 import org.nutz.trans.Atom;
 import org.nutz.trans.Trans;
 
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -42,48 +40,54 @@ public class AppTest
 
     }
 
-    public void test01()
+    public void testTrans()
     {
         Trans.exec(new Atom()
         {
             @Override
             public void run()
             {
+                dao.insert(VOTest2.me());
+//                if (1 == 1)
+//                {
+//                    throw new RuntimeException("xxx");
+//                }
 
-                dao.insert("t1", Chain.make("id_", "111").add("f1_", "22222"));
-
-                List list = dao.query("t1", null);
+                List list = dao.query(VOTest2.class, null);
                 logger.debug(list.toString());
-
                 //这种情况多不多？
             }
         });
     }
 
 
-    public void test03()
+    public void testCreataTable()
     {
-
         dao.create(VOTest2.class, true);
+//        Date d1 = new Date();
+//        for (int i = 1; i <= 1000; i++)
+//        {
+//            dao.insert(VOTest2.me());
+//        }
+//        Date d2 = new Date();
+//        System.out.println(d2.getTime() - d1.getTime());
+    }
 
-        Date d1 = new Date();
-        for (int i = 1; i <= 1000; i++)
-        {
-            dao.insert(VOTest2.me());
-        }
-
-        Date d2 = new Date();
-
-        System.out.println(d2.getTime() - d1.getTime());
-
+    /**
+     * 通过简单查询，关注如何执行的查询
+     */
+    public void testQuery()
+    {
+        List<Record> list = dao.query("t_news", Cnd.where("objid_", "like", "2e43"));
+        Dump.print(list);
     }
 
 
     public static void main(String[] args)
     {
         AppTest test = new AppTest();
-        test.test03();
-    }
+        test.testTrans();
 
+    }
 
 }

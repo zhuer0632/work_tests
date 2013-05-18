@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/maventools/code/!svn/ver/12/trunk/maven-tools
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/maventools/code/!svn/ver/11/trunk/maven-tools/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/maventools/code/!svn/ver/8/trunk/maven-tools/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/maventools/code/!svn/ver/5/trunk/maven-tools/pom.xml
+END

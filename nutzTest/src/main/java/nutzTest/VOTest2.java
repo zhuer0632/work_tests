@@ -1,5 +1,6 @@
 package nutzTest;
 
+import org.nutz.dao.entity.annotation.ColDefine;
 import org.nutz.dao.entity.annotation.Column;
 import org.nutz.dao.entity.annotation.Id;
 import org.nutz.dao.entity.annotation.Table;
@@ -20,7 +21,21 @@ public class VOTest2
     private int id;
 
     @Column
+    @ColDefine(width = 10)
+    private String f1;
+
+    @Column
     private Date date;
+
+    public String getF1()
+    {
+        return f1;
+    }
+
+    public void setF1(String f1)
+    {
+        this.f1 = f1;
+    }
 
     public int getId()
     {
@@ -46,6 +61,7 @@ public class VOTest2
     {
         VOTest2 vo = new VOTest2();
         vo.setDate(new Date());
+        vo.setF1("123");
         return vo;
     }
 }
