@@ -1,5 +1,6 @@
 package com.comdev.test;
 
+import VO.VOt1;
 import com.alibaba.druid.pool.DruidDataSource;
 import com.comdev.ut.PropertiesUT;
 import com.me.ut.string.Dump;
@@ -22,7 +23,6 @@ public class AppTest
     private static final Logger logger = Logger.getLogger(AppTest.class);
 
     private static NutDao dao;
-
 
     static
     {
@@ -83,10 +83,27 @@ public class AppTest
     }
 
 
+    public void test04()
+    {
+
+        dao.create(VOt1.class, true);
+
+        for (int i = 1; i <= 1000; i++)
+        {
+            dao.insert(VOt1.me());
+        }
+
+    }
+
     public static void main(String[] args)
     {
         AppTest test = new AppTest();
+<<<<<<< HEAD
         test.testTrans();
+=======
+        test.test04();
+    }
+>>>>>>> 1fd49740445711acfb58a9190b845c17deabb19d
 
     }
 
